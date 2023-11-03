@@ -1,6 +1,6 @@
 # My neovim configuration
 
-# ✨ Features
+## ✨ Features
 - **File explorer** with *Nvim-tree*
 - **Autocompletion** with *Nvim-cmp*
 - **LSP** with *Nvim-lspconfig*
@@ -11,16 +11,20 @@
 - **Bufferline** with *Bufferline*
 
 
-# ⚡ Requirements
+## ⚡ Requirements
 - Neovim >= **0.8.0**
 - [Nerd Font](https://nerdfonts.com/font-downloads)
 - Ripgrep
 
-# 🛠️ Installation
-## Linux/Mac OS (Unix)
-`git clone https://github.com/floaaat/nvim-config ~/.`
-`nvim`
+## 🛠️ Installation
+### Linux/Mac OS (Unix)
+```shell
+git clone https://github.com/floaaat/nvim-config ~/.config/nvim
+nvim
+```
 
-## Windows (Powershell)
-`git clone https://github.com/floaaat/nvim-config $env:LOCALAPPDATA\nvim`
-`nvim`
+### Windows (Powershell)
+```shell
+git clone https://github.com/floaaat/nvim-config $env:LOCALAPPDATA\nvim
+nvim
+```
