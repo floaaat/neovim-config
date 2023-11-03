@@ -1,5 +1,8 @@
 # My neovim configuration
 
+## 🌟 Preview
+![Preview](https://github.com/floaaat/neovim-config/blob/master/.github/showcase.png)
+
 ## ✨ Features
 - **File explorer** with *Nvim-tree*
 - **Autocompletion** with *Nvim-cmp*
