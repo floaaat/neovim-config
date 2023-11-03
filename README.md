@@ -16,6 +16,7 @@
 
 ## ⚡ Requirements
 - Neovim >= **0.8.0**
+- Git >= **2.19.0**
 - [Nerd Font](https://nerdfonts.com/font-downloads)
 - Ripgrep
 
