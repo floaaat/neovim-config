@@ -5,7 +5,7 @@ require("nvim-treesitter.configs").setup({
 })
 
 require("toggleterm").setup({
-  shell = "flatpak-spawn --env=TERM=$TERM bash",
+  -- shell = "flatpak-spawn --env=TERM=$TERM bash",
   float_opts = {
     border = "curved",
   },
