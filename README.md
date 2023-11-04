@@ -32,3 +32,6 @@ nvim
 git clone https://github.com/floaaat/nvim-config $env:LOCALAPPDATA\nvim
 nvim
 ```
+
+## ⚖️ License
+This project is licensed under the **MIT License**
